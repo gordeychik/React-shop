@@ -1,18 +1,18 @@
 import { useState } from 'react';
-import { auth } from '../../firebase';
+import { auth } from '../../firebase.ts';
 import { signInWithEmailAndPassword } from 'firebase/auth';
 import { Button } from '../../ui/Button/Button';
 import styles from './Auth.module.scss';
 import { useDispatch } from 'react-redux';
 import { setUser } from '../../store/userSlice';
 
-export const SignIn = ({onClose}) => {
+export const SignIn = ({onClose}: {onClose: () => void}) => {
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
     const [error, setError] = useState('');
     const dispatch = useDispatch();
 
-    const handleSubmit = (e) => {
+    const handleSubmit = (e:React.FormEvent) => {
         e.preventDefault();
 
         signInWithEmailAndPassword(auth, email, password)

@@ -1,19 +1,19 @@
-import { useState } from 'react';
-import { auth } from '../../firebase';
+import React, { useState } from 'react';
+import { auth } from '../../firebase.ts';
 import { createUserWithEmailAndPassword } from 'firebase/auth';
 import { Button } from '../../ui/Button/Button';
 import styles from './Auth.module.scss';
 import { useDispatch } from 'react-redux';
 import { setUser } from '../../store/userSlice';
 
-export const SignUp = ({ onClose }) => {
+export const SignUp = ({ onClose }: { onClose: () => void }) => {
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
     const [copyPassword, setCopyPassword] = useState('');
     const [error, setError] = useState('');
     const dispatch = useDispatch();
 
-    const register = (e) => {
+    const register = (e:React.FormEvent) => {
         e.preventDefault();
         if (password !== copyPassword) {
             setError('Password didn"t match!');
@@ -28,7 +28,7 @@ export const SignUp = ({ onClose }) => {
                 setEmail('');
                 setPassword('');
                 setCopyPassword('');
-                onClose(); 
+                onClose();
             })
             .catch((error) => {
                 console.log(error);

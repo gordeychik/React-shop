@@ -1,13 +1,13 @@
-import { onAuthStateChanged, signOut } from 'firebase/auth';
+import { onAuthStateChanged, signOut, User } from 'firebase/auth';
 import { useState, useEffect } from 'react';
 import { Button } from '../../ui/Button/Button';
-import { auth } from '../../firebase';
+import { auth } from '../../firebase.ts';
 import styles from './Auth.module.scss';
 import { useDispatch } from 'react-redux';
 import { setUser, clearUser } from '../../store/userSlice';
 
 export const AuthDetails = () => {
-    const [authUser, setAuthUser] = useState(null);
+    const [authUser, setAuthUser] = useState<User | null>(null);
     const dispatch = useDispatch();
 
     useEffect(() => {
