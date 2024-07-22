@@ -1,0 +1,36 @@
+.footer {
+  margin: 20px 0 24px;
+  padding: 24px;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #191919;
+
+  p {
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 14.63px;
+    text-align: center;
+    color: #576067;
+
+    span {
+      color: #6c3eb8;
+    }
+  }
+
+  .footer__icons {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+}
+
+
+@media (max-width: 580px) {
+  .footer {
+    .footer__icons {
+      display: none;
+    }
+  }
+}

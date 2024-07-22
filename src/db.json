@@ -1,0 +1,524 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Nike",
+      "products": [
+        {
+          "id": 1,
+          "brand": "Nike",
+          "name": "Nike Air Max 270",
+          "price": "13 270",
+          "size": [41, 42, 43, 44],
+          "image": "nike1",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "M1906ROC"
+        },
+        {
+          "id": 2,
+          "brand": "Nike",
+          "name": "Nike Air 390",
+          "price": "14 670",
+          "size": [41, 42, 43, 44, 45],
+          "image": "nike2",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "M2006ROD"
+        },
+        {
+          "id": 3,
+          "brand": "Nike",
+          "name": "Nike Zoom 52",
+          "price": "18 100",
+          "size": [41, 42, 43],
+          "image": "nike3",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "M2006ROD"
+        },
+        {
+          "id": 4,
+          "brand": "Nike",
+          "name": "Nike Flacko-Z",
+          "price": "12 100",
+          "size": [41, 42],
+          "image": "nike4",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "M2566ROD"
+        },
+        {
+          "id": 5,
+          "brand": "Nike",
+          "name": "Nike Bn-2101",
+          "price": "9 900",
+          "size": [41, 42, 43, 44],
+          "image": "nike5",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "M2266ROD"
+        },
+        {
+          "id": 6,
+          "brand": "Nike",
+          "name": "Nike Cropy-Low",
+          "price": "12 700",
+          "size": [41, 42, 43, 44],
+          "image": "nike6",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "M2267ROD"
+        },
+        {
+          "id": 7,
+          "brand": "Nike",
+          "name": "Nike Zustand",
+          "price": "13 400",
+          "size": [41, 42, 43, 44],
+          "image": "nike7",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "S2267RUD"
+        },
+        {
+          "id": 8,
+          "brand": "Nike",
+          "name": "Nike Zerro 12",
+          "price": "11 200",
+          "size": [41, 42],
+          "image": "nike8",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "S7137RUD"
+        },
+        {
+          "id": 9,
+          "brand": "Nike",
+          "name": "Nike Pincky 001",
+          "price": "17 600",
+          "size": [41, 42, 43],
+          "image": "nike9",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "S7137RUD"
+        },
+        {
+          "id": 10,
+          "brand": "Nike",
+          "name": "Nike Pincky 005",
+          "price": "12 400",
+          "size": [41, 42, 43, 44],
+          "image": "nike10",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "S7137RUD"
+        },
+        {
+          "id": 11,
+          "brand": "Nike",
+          "name": "Nike Force Ory",
+          "price": "15 800",
+          "size": [41, 42, 43, 44],
+          "image": "nike11",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 12,
+          "brand": "Nike",
+          "name": "Nike Pure Water",
+          "price": "10 340",
+          "size": [41, 42, 43, 44],
+          "image": "nike12",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Adidas",
+      "products": [
+        {
+          "id": 13,
+          "brand": "Adidas",
+          "name": "Adidas Liberty",
+          "price": "7 340",
+          "size": [41, 42, 43, 44],
+          "image": "adidas1",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 14,
+          "brand": "Adidas",
+          "name": "Adidas Cournet TY",
+          "price": "5 140",
+          "size": [41, 42, 43, 44],
+          "image": "adidas2",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 15,
+          "brand": "Adidas",
+          "name": "Adidas Lovely-Y",
+          "price": "7 900",
+          "size": [41, 42],
+          "image": "adidas3",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 16,
+          "brand": "Adidas",
+          "name": "Adidas HJ-902",
+          "price": "4 800",
+          "size": [41, 42, 43],
+          "image": "adidas4",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 17,
+          "brand": "Adidas",
+          "name": "Adidas Trickster",
+          "price": "10 100",
+          "size": [41, 42, 43, 45],
+          "image": "adidas5",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 18,
+          "brand": "Adidas",
+          "name": "Adidas Twinky-002",
+          "price": "10 800",
+          "size": [41, 42, 43, 45],
+          "image": "adidas6",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 19,
+          "brand": "Adidas",
+          "name": "Adidas Twinky-006",
+          "price": "11 300",
+          "size": [41, 42, 43, 45],
+          "image": "adidas7",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 20,
+          "brand": "Adidas",
+          "name": "Adidas Pony Dart",
+          "price": "14 400",
+          "size": [41, 42],
+          "image": "adidas8",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 21,
+          "brand": "Adidas",
+          "name": "Adidas Shiroku",
+          "price": "9 400",
+          "size": [41, 42, 43],
+          "image": "adidas9",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 22,
+          "brand": "Adidas",
+          "name": "Adidas Subo",
+          "price": "9 400",
+          "size": [41, 42, 43, 44],
+          "image": "adidas10",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 23,
+          "brand": "Adidas",
+          "name": "Adidas Destiny",
+          "price": "11 200",
+          "size": [41, 42, 43, 44],
+          "image": "adidas11",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 24,
+          "brand": "Adidas",
+          "name": "Adidas Y-Low",
+          "price": "13 900",
+          "size": [41, 42, 43, 44],
+          "image": "adidas12",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Newbalance",
+      "products": [
+        {
+          "id": 25,
+          "brand": "New Balance",
+          "name": "New Balance Ride-PP",
+          "price": "12 900",
+          "size": [41, 42, 43, 44],
+          "image": "newbalance1",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 26,
+          "brand": "New Balance",
+          "name": "New Balance UIS",
+          "price": "9 900",
+          "size": [41, 42, 43, 44],
+          "image": "newbalance2",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 27,
+          "brand": "New Balance",
+          "name": "New Balance Foogy",
+          "price": "16 500",
+          "size": [41, 42, 43, 44],
+          "image": "newbalance3",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 28,
+          "brand": "New Balance",
+          "name": "New Balance 530",
+          "price": "17 000",
+          "size": [41, 42, 43, 44],
+          "image": "newbalance4",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 29,
+          "brand": "New Balance",
+          "name": "New Balance S-200",
+          "price": "16 500",
+          "size": [41, 42, 43, 44],
+          "image": "newbalance5",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 30,
+          "brand": "New Balance",
+          "name": "New Balance E100",
+          "price": "16 500",
+          "size": [41, 42, 43, 44],
+          "image": "newbalance6",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Reebok",
+      "products": [
+        {
+          "id": 31,
+          "brand": "Reebok",
+          "name": "Reebok R-class",
+          "price": "16 500",
+          "size": [41, 42, 43, 44],
+          "image": "reebok1",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 32,
+          "brand": "Reebok",
+          "name": "Reebok Ponny",
+          "price": "11 400",
+          "size": [41, 42, 43, 44],
+          "image": "reebok2",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 33,
+          "brand": "Reebok",
+          "name": "Reebok Tourists",
+          "price": "14 700",
+          "size": [41, 42, 43, 44],
+          "image": "reebok3",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Others",
+      "products": [
+        {
+          "id": 34,
+          "brand": "Asperto",
+          "name": "Asperto Indy",
+          "price": "7 700",
+          "size": [41, 42, 43, 44],
+          "image": "others1",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 35,
+          "brand": "Lumus",
+          "name": "Lumus Finer",
+          "price": "5 200",
+          "size": [41, 42, 43, 44],
+          "image": "others2",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 36,
+          "brand": "Lumus",
+          "name": "Lumus Pinep",
+          "price": "5 200",
+          "size": [41, 42, 43, 44],
+          "image": "others3",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 37,
+          "brand": "Fila",
+          "name": "Lumus Pinep",
+          "price": "8 300",
+          "size": [41, 42, 43, 44],
+          "image": "others4",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 38,
+          "brand": "Mike",
+          "name": "Mike Vazovsky",
+          "price": "8 300",
+          "size": [41, 42, 43, 44],
+          "image": "others5",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Trend",
+      "products": [
+        {
+          "id": 39,
+          "brand": "Nike",
+          "name": "Nike ZoomX",
+          "price": "15 900",
+          "size": [41, 42, 43, 44],
+          "image": "trend1",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 40,
+          "brand": "Adidas",
+          "name": "Adidas Y-Low",
+          "price": "13 600",
+          "size": [41, 42, 43, 44],
+          "image": "trend2",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 41,
+          "brand": "Jordan",
+          "name": "Jordan Poppy",
+          "price": "13 600",
+          "size": [41, 42, 43, 44],
+          "image": "trend3",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 42,
+          "brand": "Jordan",
+          "name": "Jordan Legacy",
+          "price": "21 100",
+          "size": [41, 42, 43, 44],
+          "image": "trend4",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 43,
+          "brand": "Nike",
+          "name": "Nike Dunk SB",
+          "price": "11 900",
+          "size": [41, 42, 43, 44],
+          "image": "trend5",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        },
+        {
+          "id": 44,
+          "brand": "Asics",
+          "name": "Asics Legendary",
+          "price": "13 300",
+          "size": [41, 42, 43, 44],
+          "image": "trend6",
+          "sostav": "верх: текстиль; подошва: термопластичная резина",
+          "country": "Вьетнам",
+          "article": "Z7132RUD"
+        }
+      ]
+    }
+  ]
+}

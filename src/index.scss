@@ -1,0 +1,43 @@
+body {
+  font-family: "Montserrat";
+  margin: 0;
+  padding: 0;
+  background-color: #212123;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a {
+  margin: 0;
+  font-family: "Montserrat";
+}
+
+button {
+  font-family: "Montserrat";
+}
+
+a {
+  font-family: "Montserrat";
+  text-decoration: none;
+  color: inherit;
+}
+
+a:visited {
+  color: inherit;
+}
+
+ul,
+li {
+  list-style: none;
+}
