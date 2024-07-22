@@ -33,7 +33,9 @@ export const Cart = () => {
     const dispatch = useDispatch();
 
     const handleRemoveFromCart = (id: number, size: string) => {
-        dispatch(removeFromCart({ id, size }));
+        // Преобразование size в число
+        const sizeAsNumber = parseInt(size, 10);
+        dispatch(removeFromCart({ id, size: sizeAsNumber }));
     };
 
     const [summa, setSumma] = useState(0);

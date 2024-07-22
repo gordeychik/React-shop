@@ -4,7 +4,6 @@ import styles from './Catalog.module.scss';
 import { CatalogItem } from './CatalogItem';
 import { Container } from '../../ui/Container/Container';
 import { Link } from 'react-router-dom';
-import { fetchProducts } from '../../api/fetchProducts'
 
 export interface Item {
     id: number;

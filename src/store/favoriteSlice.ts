@@ -1,4 +1,4 @@
-// favoriteSlice.js
+// favoriteSlice.ts
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 
 export interface FavoriteItem {
@@ -38,3 +38,4 @@ const favoriteSlice = createSlice({
 
 export const { addToFavorite, removeFromFavorite } = favoriteSlice.actions;
 export default favoriteSlice.reducer;
+export type { FavoriteState };
